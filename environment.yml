@@ -1,0 +1,11 @@
+name: all_packages
+channels:
+  - conda-forge
+dependencies:
+  - notebook
+  - xarray
+  - opencv
+  - netcdf4
+  - matplotlib
+  - numpy
+prefix: /home/tge/mambaforge/envs/all_packages
